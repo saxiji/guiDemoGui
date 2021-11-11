@@ -1,0 +1,16 @@
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+<BorderPane>
+    <center>
+      <SplitPane orientation="VERTICAL">
+        <VBox><Label> text="1111"</Label>  </VBox>
+
+
+        <VBox><Label> text="12222"</Label>  </VBox>
+
+      </SplitPane>
+    </center>
+
+</BorderPane>
